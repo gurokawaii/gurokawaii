@@ -1,4 +1,4 @@
-<img src="https://file.garden" alt="dork squad" width="300">
+<img src="https://file.garden" alt="dork squad">
 
 
 
